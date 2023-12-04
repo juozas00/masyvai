@@ -1,0 +1,16 @@
+{
+  "name": "masyvai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "masyvas.js",
+  "scripts": {
+    "array": "nodemon ./masyvai/masyvas.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Juozas Zigmantas",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
